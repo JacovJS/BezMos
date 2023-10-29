@@ -4,7 +4,7 @@
 
   <p align="center">
     BezMos basically is from the words Bezier Curves and Desmos, with Bez from Bezier Curves and Mos from Desmos. This program is basically Bezier Curves in Desmos but, the exciting part is it recreates any PNG & JPEG images into Bezier Curves that can be used to create art in Desmos!
-    <a href="https://bezmos.codedzero.repl.co">View Demo</a>
+    <a href="https://bezmos.xcodedzero.repl.co">View Demo</a>
     ·
     <a href="https://github.com/JacovJS/BezMos/issues">Report Bug</a>
     ·
@@ -30,8 +30,6 @@ Here's why:
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * Node.js
 * React.js
 * Bootstrap
@@ -41,8 +39,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <!-- CONTRIBUTING -->
 ## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -69,12 +65,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 * [Othneildrew](https://github.com/othneildrew/Best-README-Template/blob/master/README.md?plain=1)
