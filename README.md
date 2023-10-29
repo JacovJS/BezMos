@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Ateneo Logo In Desmos](https://postimg.cc/k2pykkMX)
+[![ADDU-2.png](https://i.postimg.cc/5txkFVZv/ADDU-2.png)](https://postimg.cc/k2pykkMX)
 
 BezMos is a website created to make Desmos Art Creation convenient for enthusiasts who love getting glimpses of Desmos Art. Furthermore, this program is specially for Desmos Art in Bezier Curves, which are known to be used a lot in Graphic Designing but, actual mathematical concepts of it is quite hard to grasp so, making art using Bezier Curves are quite complex and takes an excruciatingly long amount of time but, this program is designed to solve that problem.
 
