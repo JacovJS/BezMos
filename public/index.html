@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="style.css">
+  <title>BezMos</title>
+  <link rel="shortcut icon" type="image/png" href="https://www.desmos.com/calc_thumbs/production/niozepjo3i.png">
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://www.desmos.com/api/v1.7/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
+</head>
+
+  
+<body>
+
+  <div class= "container" id="home">
+    
+    <div class="navbar">
+      <!--Put image here-->
+       <a href="index.html">
+      <p>BezMos</p>
+    </div>
+
+    <div class="row fade">
+      <div class="col">
+         <section class="main">
+        <h1>BezMos</h1>
+         <h2 class="fade">Create Art With Desmos</h2>
+       
+        <p class="fade">Bezier Curves are unique and they can basically make anything you could imagine! With the use of Bezier curves, you can create art!</p>
+           <p>Image to Bezier Curve Equations For Desmos Art</p>
+        <a href="#generate" ><button type="button" onclick="fade()" class="fade">Start Creating</button></a>
+           <p><br></p>
+         </section>
+      </div>
+    </div>
+  </div>
+  <div class="container" id="generate">
+    <div id="app" class="fade"></div>
+  </div>
+  
+
+  <script src="animatecss.js"></script>
+  <!-- Please compile your JSX files before production -->
+  <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+  <script crossorigin defer type="text/babel" src="App.jsx"></script>
+</body>
+</html>
