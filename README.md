@@ -1,16 +1,7 @@
-]
-<a name="readme-top"></a>
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <br />
 <div align="center">
-  <a href="https://www.desmos.com/calc_thumbs/production/niozepjo3i.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -26,40 +17,10 @@
   </p>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Ateneo Logo in Desmos][BezMos in Action]](https://i.postimg.cc/5txkFVZv/ADDU-2.png)
+[Ateneo Logo In Desmos](https://i.postimg.cc/5txkFVZv/ADDU-2.png)
 
 BezMos is a website created to make Desmos Art Creation convenient for enthusiasts who love getting glimpses of Desmos Art. Furthermore, this program is specially for Desmos Art in Bezier Curves, which are known to be used a lot in Graphic Designing but, actual mathematical concepts of it is quite hard to grasp so, making art using Bezier Curves are quite complex and takes an excruciatingly long amount of time but, this program is designed to solve that problem.
 
